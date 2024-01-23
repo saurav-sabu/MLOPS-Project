@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/a5e0be7984eb43f389ff8ef52f6c4212/artifacts
+end_time: 1705999583527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5e0be7984eb43f389ff8ef52f6c4212
+run_name: resilient-koi-603
+run_uuid: a5e0be7984eb43f389ff8ef52f6c4212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705999583505
+status: 4
+tags: []
+user_id: abc

@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/d326288a94e74566ae4e94e12e5cf6ef/artifacts
+end_time: 1705999628404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d326288a94e74566ae4e94e12e5cf6ef
+run_name: valuable-panda-992
+run_uuid: d326288a94e74566ae4e94e12e5cf6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705999628385
+status: 4
+tags: []
+user_id: abc
